@@ -1,0 +1,46 @@
+body{
+    background-image: radial-gradient(cyan, rgb(0, 191, 255), blue);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+.heading{
+    font-size: 20px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+    font-family: 'Teko', sans-serif;
+  }
+  label{
+    font-size: 14px;
+    padding: 6px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+  }
+h4 span{
+    letter-spacing: 10px;
+    
+}
+p{
+    font-size: 20px;
+    color: white;
+}  
+.copy_right_footer{
+    
+        position: fixed;
+        text-align: center;
+        bottom: 0;
+        color: rgb(255, 255, 255);
+        width: 100%;
+        font-size: 20px;
+        margin-bottom: 10px;
+        text-shadow: 5px 5px 5px rgb(0, 0, 0);
+        font-style: italic;
+    }        
+
